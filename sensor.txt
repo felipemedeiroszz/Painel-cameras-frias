@@ -1,0 +1,30 @@
+ESP32-CAM
+Cabo FFC/FPC 24 pinos 0.5mm
+Temperatura DS18B20 Resistor 4.7kΩ 
+Sensor magnetico MC-38
+4xbuzzer 5v
+Transistor (2N2222 ou BC337) 
+Resistor 1k
+Fonte 5V 2A
+FTDI USB
+fios dupont macho-fêmea
+Protoboard
+Caixa plástica
+
+R$160 a R$220
+
+
+Custo por câmara (importante)
+
+Depois que já tiver:
+
+FTDI
+Protoboard
+fios
+
+ Próximas unidades ficam mais baratas:
+
+~R$90 a R$140 por câmara
+
+
+
